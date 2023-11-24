@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shael-More
+- 👋 Hi, I’m @Shailesh-More
 - 👀 I’m interested in Web Development and Cyber Security
 - 🌱 I’m currently learning Javascript and Sass
 - 💞️ I’m looking to collaborate on ...
