@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shailesh-More
 - 👀 I’m interested in Web Development and Cyber Security
-- 🌱 I’m currently learning Javascript and Sass
+- 🌱 I’m currently following the Frontend developer path.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
