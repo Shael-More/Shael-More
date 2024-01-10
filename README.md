@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Shailesh More</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&f=1&nofb=1&ipt=e1d527d5a167a9f362ccbdf1320e26f20d802dca257b45458d431abce33fb9c6&ipo=images" alt="Coding" width="400"> 
+<img align="right" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="Coding" width="500"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shael-more&label=Profile%20views&color=0e75b6&style=flat" alt="shael-more" /> </p>
 
